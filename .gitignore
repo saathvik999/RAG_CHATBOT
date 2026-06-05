@@ -1,0 +1,36 @@
+# Virtual Environment
+rag-env/
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+
+# Database
+*.sqlite3
+chroma_db/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
