@@ -94,10 +94,6 @@ OPENAI_API_KEY=your_key_here
 - [ ] Export chat history
 - [ ] Deployment to cloud (Hugging Face Spaces, etc.)
 
-## License
-
-MIT
-
 ## Author
 
 Saathvik
